@@ -16,7 +16,7 @@ API de CRUD para genreciamento de produtores rurais.
 - Clone o repositório
 
 ```sh
-$ git clone https://github.com/CriszuStav/Brai-Agriculture.git
+$ git clone https://github.com/CriszuStav/brain-agriculture-backend.git
 ```
 
 - rode o comando do docker compose:
